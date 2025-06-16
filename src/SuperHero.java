@@ -25,7 +25,7 @@ public class SuperHero extends Hero {
         }
     }
     public void test() {
-    super.test();
+    test();
     System.out.println("子test");
     }
 }
